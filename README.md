@@ -1,5 +1,6 @@
 # Quiz_bot
-Telegram bot with quiz on IT topic @docrotD_bot<br>
+Telegram bot with quiz on IT topic <br>
+link: @docrotD_bot<br>
 <h1>Commands:</h1><br>
 /quiz - start New game<br>
 /stat - show player's statistic<br>
