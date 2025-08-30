@@ -13,7 +13,7 @@ from DB import (
 from questions import get_question
 
 logging.basicConfig(level=logging.INFO)
-API_TOKEN = '8435487987:AAGCqaQHa5aw5ly__iLqFgYBLlS9usis2FI'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 DB_NAME = 'quiz_bot.db'
